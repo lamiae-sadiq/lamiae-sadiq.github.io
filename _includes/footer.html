@@ -31,7 +31,7 @@
             }
             // fetch last commit
             var xhr = new XMLHttpRequest();
-            var url = "https://api.github.com/repos/{{site.repository}}/commits/master";
+            var url = "https://api.github.com/repos/{{site.repository}}/commits/main";
             xhr.open('GET', url, true);
             xhr.responseType = 'json';
             xhr.onload = function () {
