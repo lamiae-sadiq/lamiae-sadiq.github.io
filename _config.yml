@@ -34,7 +34,7 @@ projects:
     venue-publication: This project is about writing an HTTP server in C++ 98 capable of processing HTTP requests.
     url: https://github.com/lamiae-sadiq/WebServer
   - title: "Minishell"
-    venue-publication: The objective of this project is to create a simple shell like BASH.
+    venue-publication: This project involves creating a simple shell, akin to a mini bash. The aim is to gain a deeper understanding of processes and file descriptors.
     url: https://github.com/lamiae-sadiq/minishell
   - title: "Inception"
     venue-publication: The goal of this project is to set up a small infrastructure with Docker, following specific rules, which consists of three services (MariaDB, WordPress, and Nginx).
