@@ -38,6 +38,7 @@ projects:
     url: https://github.com/lamiae-sadiq/minishell
   - title: "Inception"
     venue-publication: The goal of this project is to set up a small infrastructure with Docker, following specific rules, which consists of three services (MariaDB, WordPress, and Nginx).
+    url: https://github.com/lamiae-sadiq/inception
 
 # Build settings
 markdown: kramdown
